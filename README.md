@@ -75,7 +75,7 @@ Currently building more projects in **React, Full Stack Development, and AI/ML**
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Samiksha22911/Samiksha22911/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
