@@ -51,16 +51,11 @@ Currently building more projects in **React, Full Stack Development, and AI/ML**
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Samiksha22911&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Samiksha22911&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Samiksha22911&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-</p>
 
 ---
 
@@ -80,7 +75,7 @@ Currently building more projects in **React, Full Stack Development, and AI/ML**
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Samiksha22911/Samiksha22911/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
