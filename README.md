@@ -1,14 +1,90 @@
-# 💫 About Me:
-* 🔭 I’m currently working on **web development projects** like **FRIP**, **Music Analysis Dashboard**, and other frontend-based applications.<br><br>* 👯 I’m looking to collaborate on **open source projects related to Web Development, React, JavaScript, and beginner-friendly full-stack applications**.<br><br>* 🤝 I’m looking for help with **Artificial Intelligence, Machine Learning fundamentals, and real-world AI projects**.<br><br>* 🌱 I’m currently learning **React.js, Data Structures & Algorithms in C++, MongoDB, and Python libraries for AI/ML such as NumPy, Pandas, Scikit-learn**.<br><br>* 💬 Ask me about **HTML, CSS, JavaScript, React basics, SQL, Git/GitHub, and frontend project development**.<br><br>* ⚡ Fun fact: **I enjoy turning ideas into projects and learning new tech stacks step by step—from web development to AI.**<br><br> 
+<h1 align="center">Hi 👋, I'm Samiksha Sharma</h1>
+<h3 align="center">Frontend Developer | Open Source Enthusiast | AI Learner</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Web+Developer;React+Learner;Open+Source+Contributor;Aspiring+AI%2FML+Engineer" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Samiksha22911&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Samiksha22911&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Samiksha22911&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
+## 💫 About Me
 
+🔭 I’m currently working on **web development projects** like **FRIP**, **Music Analysis Dashboard**, and other frontend-based applications.  
 
+👯 I’m looking to collaborate on **Open Source Projects** related to **Web Development, React, JavaScript, and beginner-friendly Full-Stack Applications**.  
 
+🤝 I’m looking for help with **Artificial Intelligence, Machine Learning fundamentals, and real-world AI projects**.  
+
+🌱 I’m currently learning **React.js, Data Structures & Algorithms in C++, MongoDB, and Python libraries for AI/ML such as NumPy, Pandas, and Scikit-learn**.  
+
+💬 Ask me about **HTML, CSS, JavaScript, React basics, SQL, Git/GitHub, and Frontend Project Development**.  
+
+⚡ Fun fact: **I enjoy turning ideas into projects and learning new tech stacks step by step — from Web Development to AI.**
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,python,cpp,mongodb,mysql,git,github,vscode" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 FRIP
+A frontend web project focused on responsive design, clean UI, and interactive user experience.
+
+### 🔹 Music Analysis Dashboard
+A project built for analyzing music-related data and visualizing trends.
+
+### 🔹 More Coming Soon...
+Currently building more projects in **React, Full Stack Development, and AI/ML**.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/samiksha11sharma" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:sharmasamiksha189@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile! Let's connect and build something awesome 🚀
+</p>
