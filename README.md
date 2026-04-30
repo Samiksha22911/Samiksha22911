@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samiksha Sharma</h1>
 <h3 align="center">Frontend Developer | Open Source Enthusiast | AI Learner</h3>
+<p align="center">
+🎓 2nd Year B.Tech Student in Mathematics & Computing <br>
+💻 Passionate about Web Development, Open Source, and AI/ML
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Web+Developer;React+Learner;Open+Source+Contributor;Aspiring+AI%2FML+Engineer" alt="Typing SVG" />
